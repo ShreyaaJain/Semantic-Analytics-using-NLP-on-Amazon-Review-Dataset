@@ -27,7 +27,7 @@ They deal with the understanding of data under various logical clusters/meanings
 ## STEPS: 
 
 ◦	Packageused:  Text2Vec
-◦	Created mapping between term to term called Document-Term matrix (DTM).
+◦	Created mapping between term to term called Document-Term matrix (DTM)
 ◦	Used create vocabulary from text2Vec to create the Vocab.
 ◦	Used the tokenized data and Vocab to create DTM
 ◦	Used TfIdf function to create the vector represnation of the Text.
